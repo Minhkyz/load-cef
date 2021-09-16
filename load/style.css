@@ -1,0 +1,10 @@
+.load {
+    background: url('loadingf.png');
+    position: absolute;
+    width: 470px;
+    height: 475px;
+    z-index: 9;
+    left:550px;
+    top: 200px;
+    
+}
